@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hey there 👋
 
+📫 How to reach me: igpp on discord
 <!--
 **igpp9/igpp9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
