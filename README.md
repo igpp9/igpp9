@@ -1,6 +1,7 @@
 ## Hey there 👋
 
 📫 How to reach me: igpp on discord
+
 🔭 I’m currently working on my Capstone Project, CADE, which i'll release in github when it's ready
 
 ---
