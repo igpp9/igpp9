@@ -1,6 +1,11 @@
 ## Hey there 👋
 
 📫 How to reach me: igpp on discord
+🔭 I’m currently working on my Capstone Project, CADE, which i'll release in github when it's ready
+
+---
+
+🏴‍☠️ Languages: portuguese (native), english (advanced)
 <!--
 **igpp9/igpp9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
